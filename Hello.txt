@@ -1,6 +1,0 @@
-<<<<<<< HEAD
-Hello back 
-akjsdhgjkshgjkshgisdhgosdjgisdnlksn
-=======
-My name is jack
->>>>>>> a4b716b9cc9ec374c1bf4fa6bb985fe4d38b7fc3
